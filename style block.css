@@ -1,0 +1,38 @@
+.style{
+
+    background: yellow;
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+}
+
+.block-1{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 10px 5px;
+    border: aqua;
+
+}
+.block-2{
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 10px 5px;
+
+    margin-left: 60px;
+}
+.block-3{
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px 5px;
+    border: aqua;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    border: aqua;
+    margin-left: 60px;
+}
