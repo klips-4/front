@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-parent {
+    display: flex;
+    width: 400px;
+    border: 1px solid black;
+}
+
+/*.flex-children:nth-child(2n+1) {*/
+    /*height: 50px;*/
+    /*width: 30px;*/
+    /*background: aqua;*/
+    /*width: 20px;*/
+/*}*/
+
+/*.flex-children:nth-child(2n) {*/
+    /*height: 30px;*/
+    /*width: 20px;*/
+    /*background: gray;*/
+    /*width: 30px;*/
+/*}*/
+
+/*.flex-children {*/
+    /*margin: 10px;*/
+/*}*/
+
+.flex-children {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
